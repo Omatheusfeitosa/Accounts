@@ -21,5 +21,4 @@ Este é um projeto de um sistema bancário interativo desenvolvido em Node.js, u
 ## Instalação
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Omatheusfeitosa/Accounts
